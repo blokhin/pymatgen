@@ -1,6 +1,6 @@
 numpy==1.21.2
 sympy==1.8
-requests==2.26.0
+requests==2.31.0
 monty==2021.8.17
 ruamel.yaml==0.17.4
 scipy==1.7.1
